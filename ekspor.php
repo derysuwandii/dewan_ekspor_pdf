@@ -2,7 +2,7 @@
 define('_MPDF_PATH','mpdf/');
 include(_MPDF_PATH . "mpdf.php");
 
-//Menggabungkan dengan file koneksi yang telah kita buat y
+//Menggabungkan dengan file koneksi yang telah kita buat
 include 'koneksi.php';
 
 
